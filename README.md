@@ -8,6 +8,8 @@ Portfolio
 
 - netconf 
 
+- netmiko
+
 - pythonvenv (eigen environment maken)
 
 - restconf 
